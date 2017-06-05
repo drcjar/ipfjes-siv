@@ -161,7 +161,14 @@ this studies documentation is available online
 ##
 - used to label samples and the [CRF](https://github.com/drcjar/ipfjes/blob/master/ipfjes-crf.pdf)
 - together with recruitment and tissue tracking clinic email allows us to telephone people
-- six integers, first two integers identify centre, remaining four integers allocated however you like (as long as no duplicates)
+- [six integers](https://github.com/drcjar/ipfjes/blob/master/RESEARCHID.md), first two integers identify centre, remaining four integers allocated however you like (as long as no duplicates)
+
+## on site files and logging
+
+##
+- we provide a [local site file template](https://github.com/drcjar/ipfjes/blob/master/README.md)
+- (among other things) it's important to keep a recruitment [screening log](https://github.com/drcjar/ipfjes/blob/master/ipfjes-plog.xlsx)
+
 
 ## What's in the bundle
 
