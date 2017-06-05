@@ -154,7 +154,7 @@ this studies documentation is available online
 - Obtain consent and signed [consent form](https://github.com/drcjar/ipfjes/blob/master/ipfjes-consent.pdf). Give patient the [jobs sheet](https://github.com/drcjar/ipfjes/blob/master/ipfjes-jobs.pdf).
 - Complete [case-report form](https://github.com/drcjar/ipfjes/blob/master/ipfjes-crf.pdf) for participants + take or arrange blood sample collection (labelling both with [participant research ID](https://github.com/drcjar/ipfjes/blob/master/RESEARCHID.md))
 - Post case-report form and blood samples to us in the provided prepaid Royal Mail specimen bo:
-- Email us ([carl.reynolds@nhs.net](mailto:carl.reynolds@nhs.net)) the participant esearch ID and name for the samples you're sending us ([carl.reynolds@nhs.net](mailto:carl.reynolds@nhs.net))
+- Email us ([carl.reynolds@nhs.net](mailto:carl.reynolds@nhs.net)) the participant esearch ID and name for the samples you're sending to us
 
 ## on research IDs
 
