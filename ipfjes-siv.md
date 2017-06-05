@@ -120,7 +120,7 @@ this studies documentation is available online
 - [The SOP](https://github.com/drcjar/ipfjes/blob/master/ipfjes-sop.pdf)
 - [The bundle](https://github.com/drcjar/ipfjes/blob/master/ipfjes-bundle.pdf)
 - The box with blood and [CRF](https://github.com/drcjar/ipfjes/blob/master/ipfjes-crf.pdf)
-- The email(to [carl.reynolds@nhs.net](mailto:carl.reynolds@nhs.net)) with name and research ID (six digits long, [centre ID](https://github.com/drcjar/ipfjes/blob/master/ipfjes-centre-ids.csv) plus unique identifier)
+- The email(to [carl.reynolds@nhs.net](mailto:carl.reynolds@nhs.net)) with name and [research ID](https://github.com/drcjar/ipfjes/blob/master/RESEARCHID.md) (six digits long, centre ID plus unique identifier)
 
 ## What's in the SOP
 
@@ -154,7 +154,7 @@ this studies documentation is available online
 - Obtain consent and signed [consent form](https://github.com/drcjar/ipfjes/blob/master/ipfjes-consent.pdf). Give patient the [jobs sheet](https://github.com/drcjar/ipfjes/blob/master/ipfjes-jobs.pdf).
 - Complete [case-report form](https://github.com/drcjar/ipfjes/blob/master/ipfjes-crf.pdf) for participants + take or arrange blood sample collection (labelling both with [participant research ID](https://github.com/drcjar/ipfjes/blob/master/RESEARCHID.md))
 - Post case-report form and blood samples to us in the provided prepaid Royal Mail specimen bo:
-- Email us ([carl.reynolds@nhs.net](mailto:carl.reynolds@nhs.net)) about the number of eligible participants, number of refusals, and the research ID and name of the samples you're sending us ([carl.reynolds@nhs.net](mailto:carl.reynolds@nhs.net))
+- Email us ([carl.reynolds@nhs.net](mailto:carl.reynolds@nhs.net)) the participant esearch ID and name for the samples you're sending us ([carl.reynolds@nhs.net](mailto:carl.reynolds@nhs.net))
 
 ## on research IDs
 
