@@ -120,7 +120,7 @@ this studies documentation is available online
 - [The SOP](https://github.com/drcjar/ipfjes/blob/master/ipfjes-sop.pdf)
 - [The bundle](https://github.com/drcjar/ipfjes/blob/master/ipfjes-bundle.pdf)
 - The box with blood and [CRF](https://github.com/drcjar/ipfjes/blob/master/ipfjes-crf.pdf)
-- The email with name and research ID
+- The email(to [carl.reynolds@nhs.net](mailto:carl.reynolds@nhs.net)) with name and research ID (six digits long, [centre ID](https://github.com/drcjar/ipfjes/blob/master/ipfjes-centre-ids.csv) plus unique identifier)
 
 ## What's in the SOP
 
@@ -135,14 +135,14 @@ this studies documentation is available online
 ##
 
 - men with an incident diagnosis of IPF from Feb 2017 - Oct 2019 from the ILD clinic
-- (age-matched) men without a diagnosis of IPF from not-the-ILD-Clinic
-- never worked abroad
+- [(age-matched)](https://github.com/drcjar/ipfjes/blob/master/5-year-age-bands.csv) men without a diagnosis of IPF from not-the-ILD-Clinic
+- never worked abroad (does not include armed services and merchant navy)
 
 ## Selecting not-the-ILD-Clinic
 
 ##
 
-- randomly selected 
+- [randomly selected](https://github.com/drcjar/ipfjes/blob/master/RANDOMIZATION.MD) 
 - using a list of all clinics / services / consultants / clinic locations and times
 - we're not rigid about how as long as it's 'fair', we're happy to support
 - local team asks the clinic lead if its ok to recruit from their clinic, if it's not then we select again
@@ -150,18 +150,18 @@ this studies documentation is available online
 ## Recruiting cases (and controls) from clinic
 
 ##
-- Record number of eligible participants
-- Record number of eligible participants approached who refuse to participate
-- Complete case-report form for participants + take or arrange blood sample collection
-- Post case-report form and blood samples to us in the provided prepaid Royal Mail specimen box
-- Email us about the number of eligible participants, number of refusals, and the research ID and name of the samples you're sending us
+- Provide participant information (using [participant information sheet](https://github.com/drcjar/ipfjes/blob/master/ipfjes-pis.pdf)
+- Obtain consent and signed [consent form](https://github.com/drcjar/ipfjes/blob/master/ipfjes-consent.pdf). Give patient the [jobs sheet](https://github.com/drcjar/ipfjes/blob/master/ipfjes-jobs.pdf).
+- Complete [case-report form](https://github.com/drcjar/ipfjes/blob/master/ipfjes-crf.pdf) for participants + take or arrange blood sample collection (labelling both with [participant research ID](https://github.com/drcjar/ipfjes/blob/master/RESEARCHID.md))
+- Post case-report form and blood samples to us in the provided prepaid Royal Mail specimen bo:
+- Email us ([carl.reynolds@nhs.net](mailto:carl.reynolds@nhs.net)) about the number of eligible participants, number of refusals, and the research ID and name of the samples you're sending us ([carl.reynolds@nhs.net](mailto:carl.reynolds@nhs.net))
 
 ## on research IDs
 
 ##
 - used to label samples and the [CRF](https://github.com/drcjar/ipfjes/blob/master/ipfjes-crf.pdf)
 - together with recruitment and tissue tracking clinic email allows us to telephone people
-- 6 integers, first 2 integers identify centre, remaining four integers allocated however you like (as long as no duplicates)
+- six integers, first two integers identify centre, remaining four integers allocated however you like (as long as no duplicates)
 
 ## What's in the bundle
 
